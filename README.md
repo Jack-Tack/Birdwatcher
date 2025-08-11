@@ -1,6 +1,6 @@
-# Description:
+# Description
 An ESP32-CAM and PIR sensor birdwatching system that detects motion and sends photos to a Telegram bot
-# Features:
+# Features
 * Motion detection via PIR sensor
 * Sends photos to Telegram bot
 * Sleep mode for power saving
@@ -17,7 +17,7 @@ An ESP32-CAM and PIR sensor birdwatching system that detects motion and sends ph
 * WiFiClientSecure.h
 * esp_camera.h
 # Wiring
-![Wiring Setup](https://github.com/Jack-Tack/Birdwatcher/blob/main/wiring.png "Wiring")
+![Wiring Setup](https://github.com/Jack-Tack/Birdwatcher/blob/main/images/wiring.png "Wiring")
 # Telegram Setup
 1. To obtain your ID, create a Telegram account and find a GetID bot, there are plenty available. When you start a chat it will give you your ID.
 2. To create your own bot, start a chat with "BotFather" and type /newbot. After entering a display and username you will be given your bot token.
