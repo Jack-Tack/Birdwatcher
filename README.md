@@ -8,6 +8,7 @@ An ESP32-CAM and PIR sensor birdwatching system that detects motion and sends ph
 # Hardware Used
 * ESP32-CAM
 * PIR motion sensor
+* Breadboard power supply
 * USB power bank
 * Breadboard
 # Software/Libraries
@@ -18,7 +19,7 @@ An ESP32-CAM and PIR sensor birdwatching system that detects motion and sends ph
 # Wiring
 ![Wiring Setup](https://github.com/Jack-Tack/Birdwatcher/blob/main/wiring.png "Wiring")
 # Telegram Setup
-1. To obtain ID, create a Telegram account and find a GetID bot, there are plenty available. When you start a chat it will give you your ID.
+1. To obtain your ID, create a Telegram account and find a GetID bot, there are plenty available. When you start a chat it will give you your ID.
 2. To create your own bot, start a chat with "BotFather" and type /newbot. After entering a display and username you will be given your bot token.
 3. Begin a chat with the bot you've created before uploading code or there will be an error and you will receive no images.
 # Code Setup
